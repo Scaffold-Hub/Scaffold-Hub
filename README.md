@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scaffold-hub&show_icons=true&locale=en&layout=compact" alt="scaffold-hub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scaffold-hub&show_icons=true&locale=en" alt="scaffold-hub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scaffold-hub&" alt="scaffold-hub" /></p>
